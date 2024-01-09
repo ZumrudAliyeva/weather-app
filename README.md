@@ -1,4 +1,5 @@
-# React + Vite
+# You can test the project here:
+# https://weather-eight-eta.vercel.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
